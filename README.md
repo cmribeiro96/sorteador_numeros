@@ -12,7 +12,6 @@ Repositório para armazenar os projetos do curso "Lógica de programação: prat
 -	Remover uma classe CSS de um elemento da página, via função classList.remove();
 -	Adicionar uma classe CSS a um elemento da página, via função classList.add();
 -	Alterar o texto de um elemento da página, via propriedade textContent;
--	Declarar um bloco condicional if/else, para implementar a funcionalidade de alterar o status de um jogo.
 
 ## 🔍Referências
 - 1. Lógica de Programação Crie seus primeiros programas usando Javascript e HTML
